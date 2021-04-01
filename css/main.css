@@ -1,0 +1,89 @@
+.parallaxlogin{
+    background-image: url(../img/backlogin.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.parallaxdoc{
+    background-image: url(../img/backdoc1.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 100%;
+    text-align: center;
+}
+.parallaxdoc2{
+    background-image: url(../img/backdoc2.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: flex;
+
+    text-align: center;
+}
+.parallaxdo3{
+    background-image: url(../img/backdoc3.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+.parallaxad1{
+    background-image: url(../img/backadmin1.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+.parallaxad2{
+    background-image: url(../img/backdoc3.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+.parallaxad3{
+    background-image: url(../img/adopc3.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+.parallaxlab1{
+    background-image: url(../img/backlab1.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+html,body{
+    height:100%;
+    margin:0;
+    display: flex;
+    flex-direction: column;
+  }

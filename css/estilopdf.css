@@ -1,0 +1,57 @@
+.header{
+    border: medium;
+    border-radius:15px;
+}
+
+.tablahead{
+    font-size: 18px;
+    margin-left: 3%;
+    width: 100%;
+    border-collapse: separate;
+  border-spacing: 30px;
+}
+.inline{
+    float: left;
+    margin-right: 3%;
+}
+.alinear{
+    text-align: center;
+    width: 350px;
+}
+.alinear h5{
+    margin-bottom: -3%;
+    
+}
+.tablahead td{
+width: 200px;
+height: 25px;
+
+}
+.tresultados{
+    margin-left: 3%;
+    margin-top: 3%;
+    font-size: 16px;
+    border-collapse: separate;
+}
+
+.tresultados td{
+    width: 250px;
+    height: 35px;
+}
+.tresultados th{
+    width: 250px;
+}
+.tresultadosori{
+    margin-left: 3%;
+    margin-top: 3%;
+    font-size: 16px;
+    border-collapse: separate;
+}
+
+.tresultadosori td{
+    width: 250px;
+    height: 25px;
+}
+.tresultadosori th{
+    width: 250px;
+}
